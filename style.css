@@ -1,0 +1,18 @@
+body {
+    background: url(test_image.jpg) no-repeat center center fixed;
+    background-size: cover;
+    margin: 10px;
+}
+
+header {
+    font-family: 'Kalnia', sans-serif;
+}
+
+.buffer {
+    height: 100px;
+}
+
+p{
+    font-weight: 600;
+    font-size: 2rem;
+}
